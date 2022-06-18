@@ -1,0 +1,8 @@
+{
+	"bullet_cap": 5,
+	"bullet_timer": 5,
+	"bullet_velocity": 1.5,
+	"mine_cap": 2,
+	"mine_timer": 10,
+	"entity_velocity": 3.5
+}

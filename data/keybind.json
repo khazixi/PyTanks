@@ -1,0 +1,7 @@
+{
+    "move_east": 100,
+    "move_north": 119,
+    "move_south": 115,
+    "move_west": 97,
+    "place_mine": 32
+}
